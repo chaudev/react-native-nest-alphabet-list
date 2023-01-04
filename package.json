@@ -1,6 +1,6 @@
 {
   "name": "react-native-nest-alphabet-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nguyen Phuc Bao Chau",
   "main": "built/index.js",
   "types": "built/index.d.ts",
